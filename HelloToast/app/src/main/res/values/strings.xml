@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ARRASYNET</string>
+    <string name="app_name">ArrasyNET</string>
     <string name="halo">Bagaimana Kabar Anda Hari Ini!</string>
     <string name="button_label_input">Bilangan Fibonacci</string>
     <string name="button_label_pro_hello_toast">Hello Toast</string>

@@ -32,8 +32,8 @@ public class MainMaps extends FragmentActivity implements OnMapReadyCallback {
     public void onMapReady(@NonNull GoogleMap googleMap) {
         this.gMap = googleMap;
 
-        LatLng mapIndonesia = new LatLng(-6.200000, 106.816666);
-        this.gMap.addMarker(new MarkerOptions().position(mapIndonesia).title("Marker in Indonesia"));
+        LatLng mapIndonesia = new LatLng(-6.241306,107.157250);
+        this.gMap.addMarker(new MarkerOptions().position(mapIndonesia).title("Kantor ArrasyNET"));
         this.gMap.moveCamera(CameraUpdateFactory.newLatLng(mapIndonesia));
     }
 }
